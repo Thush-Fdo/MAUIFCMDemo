@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCkcz7UXbTRicwQ8BjkvyBs7lY3-Xxqdes</string>
+	<key>GCM_SENDER_ID</key>
+	<string>104154589459</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.companyname.mauifcmdemo</string>
+	<key>PROJECT_ID</key>
+	<string>mauifcmdemo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mauifcmdemo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:104154589459:ios:2910fbbe0458f0b32352e6</string>
+</dict>
+</plist>

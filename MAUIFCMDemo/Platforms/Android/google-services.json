@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104154589459",
+    "project_id": "mauifcmdemo",
+    "storage_bucket": "mauifcmdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104154589459:android:648fcba4c6747c4a2352e6",
+        "android_client_info": {
+          "package_name": "com.companyname.mauifcmdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqS_KA3851BP3UqBnkQZVkSqTt1LAXmg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
